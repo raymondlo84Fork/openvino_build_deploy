@@ -11,7 +11,7 @@ The personality and behaviour can be easily changed with the config file (see St
 If you want a **quick setup** without manually installing dependencies, use the provided installer scripts. These scripts will **automatically configure** everything needed to run the Virtual AI Assistant Demo.
 
 ### **For Windows**
-1. Download the `install.bat` and `run.bat` files to your local directory.
+1. Download the `install.bat` and `run.bat` files from [here](https://github.com/openvinotoolkit/openvino_build_deploy/tree/master/demos/virtual_ai_assistant_demo/setup) to your local directory.
 2. Double-click `install.bat` to install dependencies and set up the environment.
 3. After installation, double-click `run.bat` to start the demo.
 
